@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "fuelsaver-1207",
+    "project_number": "198378412781",
+    "name": "FuelSaver"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198378412781:android:f2dca919040f26f2",
+        "client_id": "android:kr.ac.kookmin.fuelsaver",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "kr.ac.kookmin.fuelsaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198378412781-2f3mh27slsdp9ghfjmgqi36dh4ogmoms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.ac.kookmin.fuelsaver",
+            "certificate_hash": "781EB1DAE73F9CB504C5DAA9555D079E6A0C418B"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

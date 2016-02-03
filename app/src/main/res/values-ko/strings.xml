@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FuelSaver</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">설정</string>
+    <string name="action_options">옵션</string>
+
+    <string name="signed_in_fmt">Signed In Format</string>
+    <string name="loading">로딩중</string>
+    <string name="sign_out">로그아웃</string>
+    <string name="disconnect">연결종료</string>
+    <string name="signed_out">로그아웃됨</string>
+
+    <string name="sign_in_required">로그인 해주세요</string>
+    <string name="bluetooth">블루투스</string>
+
+    <string name="bluetooth_alert_title">호환 불가능</string>
+    <string name="bluetooth_alert_message">단말기가 블루투스를 지원하지 않습니다.</string>
+    <string name="bluetooth_alert_positive_message">나가기</string>
+
+    <string name="bluetooth_warning_alert_title">이 어플리케이션은 블루투스 기능이 필요합니다.</string>
+    <string name="bluetooth_warning_alert_message">자동차와 통신을 하기 위해서는 블루투스를 켜주셔야 합니다.</string>
+    <string name="bluetooth_warning_alert_positive_message">나가기</string>
+
+    <string name="bluetooth_activity_action_bar">블루투스 설정</string>
+</resources>

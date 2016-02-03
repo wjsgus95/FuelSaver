@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FuelSaver</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_options">Options</string>
+
+    <string name="title_activity_oauth">OauthActivity</string>
+    <string name="loading">Loading..</string>
+    <string name="signed_in_fmt">Signed In Format</string>
+
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="signed_out">Signed Out</string>
+
+    <string name="sign_in_required">Sign-in Required</string>
+    <string name="bluetooth">Bluetooth</string>
+
+    <string name="bluetooth_error_alert_title">Not compatible</string>
+    <string name="bluetooth_error_alert_message">Your phone does not support Bluetooth</string>
+    <string name="bluetooth_error_alert_positive_message">Exit</string>
+
+    <string name="bluetooth_warning_alert_title">This app requires Bluetooth communication</string>
+    <string name="bluetooth_warning_alert_message">In order to communicate with your automobile you need to turn on your device\'s Bluetooth</string>
+    <string name="bluetooth_warning_alert_positive_message">Exit</string>
+
+    <string name="bluetooth_activity_action_bar">Bluetooth Settings</string>
+</resources>
