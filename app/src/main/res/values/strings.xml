@@ -27,4 +27,6 @@
     <string name="bluetooth_warning_alert_positive_message">Exit</string>
 
     <string name="bluetooth_activity_action_bar">Bluetooth Settings</string>
+    <string name="bluetooth_switch">Bluetooth</string>
+    <string name="bluetooth_text">Please select your OBD device</string>
 </resources>

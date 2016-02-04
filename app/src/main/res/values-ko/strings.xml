@@ -25,4 +25,6 @@
     <string name="bluetooth_warning_alert_positive_message">나가기</string>
 
     <string name="bluetooth_activity_action_bar">블루투스 설정</string>
+    <string name="bluetooth_switch">Bluetooth</string>
+    <string name="bluetooth_text">OBD 장치를 선택해 주세요.</string>
 </resources>

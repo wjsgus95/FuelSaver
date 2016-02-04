@@ -1,15 +1,14 @@
 package kr.ac.kookmin.fuelsaver.Activity;
 
-import android.bluetooth.BluetoothAdapter;
-import android.content.DialogInterface;
-import android.content.Intent;
-import android.os.Bundle;
-import android.support.v7.app.AlertDialog;
-import android.support.v7.app.AppCompatActivity;
+/*
+public class BluetoothActivity extends ListActivity {
 
-import kr.ac.kookmin.fuelsaver.R;
+    private Switch mSwitch;
+    private TextView mTextView;
+    private ListView mListView;
+    private Button mButton;
 
-public class BluetoothActivity extends AppCompatActivity {
+    private Set<BluetoothDevice> pairedDevices;
 
 
     @Override
@@ -18,6 +17,12 @@ public class BluetoothActivity extends AppCompatActivity {
         setContentView(R.layout.activity_bluetooth);
 
         getActionBar().setTitle(R.string.bluetooth_activity_action_bar);
+
+
+        mSwitch = (Switch) findViewById(R.id.bluetooth_switch);
+        mTextView = (TextView) findViewById(R.id.bluetooth_text);
+        mListView = (ListView) findViewById(R.id.paired_device_list);
+        mButton = (Button) findViewById(R.id.bluetooth_button);
 
 
         if (!MainActivity.mBluetoothAdapter.isEnabled()) {
@@ -34,7 +39,7 @@ public class BluetoothActivity extends AppCompatActivity {
             resultCode == 0 if user declines to turn on Bluetooth
             resultCode == -1 if user accepts to turn on Bluetooth
          */
-        if (requestCode == MainActivity.REQUEST_BLUETOOTH_ENABLE) {
+       /* if (requestCode == MainActivity.REQUEST_BLUETOOTH_ENABLE) {
             if (resultCode == 0) // if user declines
             {
                 new AlertDialog.Builder(this)
@@ -51,4 +56,7 @@ public class BluetoothActivity extends AppCompatActivity {
 
         }
     }
+
+
 }
+*/
