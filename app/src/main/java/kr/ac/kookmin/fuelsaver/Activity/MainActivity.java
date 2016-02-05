@@ -19,6 +19,7 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
 import com.google.android.gms.auth.api.Auth;
@@ -55,6 +56,9 @@ public class MainActivity extends AppCompatActivity
 
     private SignInButton signInButton;
     private MenuItem signOutItem;
+
+    public static String deviceAddress = null;
+
 
     public static BluetoothAdapter mBluetoothAdapter = null;
     public static BluetoothDevice mBluetoothDevice = null;

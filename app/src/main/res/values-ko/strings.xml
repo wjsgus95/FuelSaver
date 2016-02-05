@@ -27,4 +27,8 @@
     <string name="bluetooth_activity_action_bar">블루투스 설정</string>
     <string name="bluetooth_switch">Bluetooth</string>
     <string name="bluetooth_text">OBD 장치를 선택해 주세요.</string>
+
+    <string name="title_paired_devices">페어된 장치들</string>
+    <string name="title_other_devices">기타 장치들</string>
+    <string name="button_scan">스캔 시작</string>
 </resources>

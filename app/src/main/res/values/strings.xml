@@ -29,4 +29,8 @@
     <string name="bluetooth_activity_action_bar">Bluetooth Settings</string>
     <string name="bluetooth_switch">Bluetooth</string>
     <string name="bluetooth_text">Please select your OBD device</string>
+
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Devices</string>
+    <string name="button_scan">Scan Devices</string>
 </resources>
